@@ -8,6 +8,7 @@ public class App {
         System.out.println("Hello World!");
 
         Credentials credential = new Credentials("OSKRBLR1J0RPOPOP9QTZ");
+        Credentials credential2 = new Credentials("OSKRBLR1J0RPOPOP9QTZ");
 
     }
 }
